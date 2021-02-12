@@ -1,3 +1,6 @@
+[test](https://csi-2010c.astra-ui.feat.cloud.datastax.com/register)
+
+
 <!--- STARTEXCLUDE --->
 # Astra/Gatsby.js Starter
 *30 minutes, Beginner, [Start Building](https://github.com/DataStax-Examples/astra-gatsbyjs-starter#prerequisites)*
